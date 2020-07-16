@@ -1,5 +1,5 @@
 ///problem link: https://codeforces.com/contest/1380/problem/A
-#include<bits/stdc++.h>
+    #include<bits/stdc++.h>
     using namespace std;
     #define ll long long int
     int main()
