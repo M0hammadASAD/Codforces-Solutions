@@ -10,3 +10,4 @@
 <br>
 <h2 color:blue>Contact Info : </h2>
 <i><a href="https://fb.com/m0as4d"> Facebook </a></i>
+<i>CodeForces Handle: <a href= "https://codeforces.com/profile/DarkCod3r">DarkCod3r</a> </i>
